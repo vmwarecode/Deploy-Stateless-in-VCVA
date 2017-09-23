@@ -1,1 +1,0 @@
-# Deploy-Stateless-in-VCVA
